@@ -4,8 +4,9 @@
 
 ## Dart
 
-* [Variables](dart/variables.md)
+* [Yavaştan Projemizi Oluşturalım.](dart/yavastan-projemizi-olusturalim..md)
 
 ## Flutter
 
-* [Kontrol](flutter/kontrol.md)
+* [🤔 Doktor bu ne?](flutter/doktor-bu-ne.md)
+* [💸 Milyon Dolarlık Projemizi Oluşturalım.](flutter/milyon-dolarlik-projemizi-olusturalim..md)
