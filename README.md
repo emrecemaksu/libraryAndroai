@@ -10,3 +10,7 @@ Bizlere ulaşabilmeniz için Discord linkimiz. Henüz oralar tarla ama ileride d
 
 {% embed url="https://discord.gg/pzjm48fn" %}
 
+Udemy üzerinden uygun fiyata güzel bir eğitim de aşağıya bırakalım. Tanımıyoruz ama hocamızın eline sağlık. :clap:
+
+{% embed url="https://www.udemy.com/course/sifirdan-flutter-ile-android-ve-ios-apps-development/" %}
+
