@@ -2,7 +2,7 @@
 description: DartPad
 ---
 
-# Online Editörler
+# 📄 Online Editörler
 
 Dart Pad open source bir proje olup basit Dart ve Flutter kodlarınızı çalıştırmak, örneklerini incelemek için harika bir sitedir. Sisteminize yük bindirmeden internette kod alıştırlamalarınızı yapabilirsiniz.&#x20;
 

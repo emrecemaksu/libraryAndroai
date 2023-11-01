@@ -1,4 +1,4 @@
-# Yavaştan Projemizi Oluşturalım.
+# 🚙 Yavaştan Projemizi Oluşturalım.
 
 Dart ile çalışmak istiyorsak aslında .dart uzantılı bir dosya oluşturup onun içinde çalışmalarımızı yapabiliriz. Ama bu bana yetmez ben proje oluşturup yayınlayıp para kazanacağım mı diyorsunuz. O halde aşağıdaki kodu terminalde projeyi oluşturmak istediğimiz klasörün içinde çalıştıralım.
 

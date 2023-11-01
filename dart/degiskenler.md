@@ -2,7 +2,7 @@
 description: Variables
 ---
 
-# Değişkenler
+# 👾 Değişkenler
 
 Flutter Variables açısından kolaylatıcı çözümler sunabilmekte. Hadi gelin beraber bu değişkenleri inceleyelim.
 

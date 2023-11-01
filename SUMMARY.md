@@ -4,9 +4,11 @@
 
 ## Dart
 
-* [Yavaştan Projemizi Oluşturalım.](dart/yavastan-projemizi-olusturalim..md)
-* [Online Editörler](dart/online-editoerler.md)
-* [Değişkenler](dart/degiskenler.md)
+* [🚙 Yavaştan Projemizi Oluşturalım.](dart/yavastan-projemizi-olusturalim..md)
+* [📄 Online Editörler](dart/online-editoerler.md)
+* [👾 Değişkenler](dart/degiskenler.md)
+* [🤫 Yorum Yapma](dart/yorum-yapma.md)
+* [🧞 Yerleşik Tipler](dart/yerlesik-tipler.md)
 
 ## Flutter
 
